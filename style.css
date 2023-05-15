@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Noto+Serif+JP&display=swap');
 
@@ -106,7 +105,7 @@ label #cancel{
 
 .bg{
     height: 100vh;
-    background-image: url(https://github.com/arikawa-takahiro/daicon/blob/main/daicon2.png?raw=true);
+    background-image: url(../images/daicon2.png);
     background-size:cover;
     background-position:center;
     transition: all 0.5s;
