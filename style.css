@@ -106,7 +106,7 @@ label #cancel{
 
 .bg{
     height: 100vh;
-    background-image: url(../images/daicon2.png);
+    background-image: url(https://github.com/arikawa-takahiro/daicon/blob/main/daicon2.png?raw=true);
     background-size:cover;
     background-position:center;
     transition: all 0.5s;
